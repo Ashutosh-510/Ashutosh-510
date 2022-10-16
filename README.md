@@ -1,4 +1,4 @@
-[![@thebangman's Holopin board](https://holopin.io/api/user/board?user=thebangman)](https://holopin.io/@thebangman)
+[![@thebangman's Holopin board](https://holopin.me/thebangman)](https://holopin.io/@thebangman)
 - 👋 Hi, I’m @Ashutosh-510
 - 👀 I’m interested in learning about tech 
 - 🌱 I’m currently learning Data structures and Algorithms
