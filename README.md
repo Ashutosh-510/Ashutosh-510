@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Singh</h1>
 <h3 align="center">A passionate student which want to explore open source and tech.</h3>
+[![@thebangman's Holopin board](https://holopin.me/thebangman)](https://holopin.io/@thebangman)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-510&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-510" /> </p>
 
