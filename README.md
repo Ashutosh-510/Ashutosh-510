@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashutosh5102" target="blank"><img src="https://img.shields.io/twitter/follow/ashutosh5102?logo=twitter&style=for-the-badge" alt="ashutosh5102" /></a> </p>
 
-- 📫 How to reach me **ashutoshsinghu2002@gmial.com**
+- 📫 How to reach me **ashutoshsinghu2002@gmail.com**
 
 - ⚡ Fun fact **I AM SMART**
 
