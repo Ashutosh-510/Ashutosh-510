@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Singh</h1>
 <h3 align="center">A passionate student who want to explore open source and tech.</h3>
 
+![](https://komarev.com/ghpvc/?username=Ashutosh-510&color=green)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-510&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-510" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh-510" alt="ashutosh-510" /></a> </p>
@@ -30,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-510&" alt="ashutosh-510" /></p>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
