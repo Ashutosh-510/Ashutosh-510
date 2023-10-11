@@ -1,6 +1,6 @@
 [![@thebangman's Holopin board](https://holopin.me/thebangman)](https://holopin.io/@thebangman)
 <h1 align="center">Hi 👋, I'm Ashutosh Singh</h1>
-<h3 align="center">A passionate student which want to explore open source and tech.</h3>
+<h3 align="center">A passionate student who want to explore open source and tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-510&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-510" /> </p>
 
@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-510&show_icons=true&locale=en" alt="ashutosh-510" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-510&" alt="ashutosh-510" /></p>
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
