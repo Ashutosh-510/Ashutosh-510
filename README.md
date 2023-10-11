@@ -1,9 +1,6 @@
 [![@thebangman's Holopin board](https://holopin.me/thebangman)](https://holopin.io/@thebangman)
 <h1 align="center">Hi 👋, I'm Ashutosh Singh</h1>
 <h3 align="center">A passionate student who want to explore open source and tech.</h3>
-
-![](https://komarev.com/ghpvc/?username=Ashutosh-510&color=green)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-510&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-510" /> </p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
